@@ -1,5 +1,9 @@
 ## Data-Driven Web Applications
 
-Notes and pre-class work for INFO/CS 3300 and INFO 5100
+homework and notes for info 3300
 
-Access the website for this repo at [this URL](https://jeffrz.github.io/info3300-sp2021/).
+to pull from professors git pull upstream master && git push origin master
+to run local server python -m http.server and go to localhost:8000
+
+profs repo: https://github.com/jeffrz/info3300-sp2021.git
+profs/class website: https://jeffrz.github.io/info3300-sp2021/
